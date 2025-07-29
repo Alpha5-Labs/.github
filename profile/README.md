@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Alpha5-logo.png" alt="Alpha5 Labs Logo" width="200"/>
+<!--   <img src="./Alpha5-logo.png" alt="Alpha5 Labs Logo" width="200"/> -->
 
   **🚀 Alpha5 Labs**<br><sub>*Where bold ideas take flight and tomorrow gets built today.*</sub><br>
 
