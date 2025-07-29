@@ -7,7 +7,6 @@
 
 [![Status](https://img.shields.io/badge/🚀-Coming_Soon-ff69b4?style=for-the-badge)](#)  
 [![Made with Love](https://img.shields.io/badge/Made%20with%20❤️-in%20India-orange?style=for-the-badge)](#)  
-[![Open Source](https://img.shields.io/badge/Open%20Source-Powered%20by%20Community-blue?style=for-the-badge)](#)  
 
 </div>
 
