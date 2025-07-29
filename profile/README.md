@@ -1,7 +1,8 @@
 <div align="center">
 <!--   <img src="./Alpha5-logo.png" alt="Alpha5 Labs Logo" width="200"/> -->
 
-  **🚀 Alpha5 Labs**<br><sub>*Where bold ideas take flight and tomorrow gets built today.*</sub><br>
+  # 🚀 Alpha5 Labs
+  <sub>*Where bold ideas take flight and tomorrow gets built today.*</sub><br>
 
   [![Coming Soon](https://img.shields.io/badge/🚀-Coming%20Soon-ff69b4?style=flat-square)](#)
   [![Made With Love](https://img.shields.io/badge/Made%20with-❤️%20in%20India-orange?style=flat-square)](#)
